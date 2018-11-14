@@ -1,0 +1,8 @@
+﻿
+<div style="padding-top:50px">
+    @Html.DropDownList("GroupName", ViewBag.GroupName as IEnumerable<SelectListItem>, "Select Group", new { ng_model = "GroupName" })
+    <button id="btnadd" ng-click="addtoGroup()">Add</button>
+</div>
+
+
+

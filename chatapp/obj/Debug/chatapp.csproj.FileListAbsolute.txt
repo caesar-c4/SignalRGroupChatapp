@@ -1,0 +1,516 @@
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\chatapp.dll.config
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\chatapp.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\chatapp.pdb
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Antlr3.Runtime.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\EntityFramework.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\EntityFramework.SqlServer.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Newtonsoft.Json.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Owin.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.Helpers.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.Mvc.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.Optimization.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.Razor.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\WebGrease.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\EntityFramework.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\EntityFramework.SqlServer.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Newtonsoft.Json.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.Helpers.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.Mvc.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.Optimization.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.Razor.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Antlr3.Runtime.pdb
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\obj\Debug\chatapp.csprojResolveAssemblyReference.cache
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbcreate.resources
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbc.resources
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbCreate3.resources
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.db4.resources
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\obj\Debug\chatapp.csproj.GenerateResource.Cache
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\obj\Debug\chatapp.dll
+C:\Users\himel\Desktop\chatApplication\chatapp\chatapp\obj\Debug\chatapp.pdb
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\chatapp.dll.config
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\chatapp.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\chatapp.pdb
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Antlr3.Runtime.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\EntityFramework.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\EntityFramework.SqlServer.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Web.Infrastructure.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Newtonsoft.Json.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Owin.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Helpers.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Mvc.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Optimization.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Razor.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Deployment.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Razor.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\WebGrease.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\EntityFramework.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\EntityFramework.SqlServer.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Newtonsoft.Json.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Helpers.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Mvc.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Optimization.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Razor.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Deployment.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Razor.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Antlr3.Runtime.pdb
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.csprojResolveAssemblyReference.cache
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbcreate.resources
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbc.resources
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbCreate3.resources
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.db4.resources
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.csproj.GenerateResource.Cache
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.dll
+H:\Local Disk\IDB\Core\r-33\Module-7\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.pdb
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\chatapp.dll.config
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\chatapp.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\chatapp.pdb
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Antlr3.Runtime.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\EntityFramework.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\EntityFramework.SqlServer.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Newtonsoft.Json.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Owin.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Helpers.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Mvc.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Optimization.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Razor.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\WebGrease.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\EntityFramework.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\EntityFramework.SqlServer.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Newtonsoft.Json.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Helpers.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Mvc.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Optimization.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.Razor.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Antlr3.Runtime.pdb
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.csprojResolveAssemblyReference.cache
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbcreate.resources
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbc.resources
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbCreate3.resources
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.db4.resources
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.csproj.GenerateResource.Cache
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.dll
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.pdb
+C:\Users\himel\Desktop\SignalRProject\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.db5.resources
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\chatapp.dll.config
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\chatapp.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\chatapp.pdb
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Antlr3.Runtime.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\EntityFramework.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Newtonsoft.Json.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Owin.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.Helpers.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.Mvc.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.Optimization.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.Razor.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\WebGrease.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\EntityFramework.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Newtonsoft.Json.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.Helpers.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.Mvc.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.Optimization.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.Razor.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Antlr3.Runtime.pdb
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbcreate.resources
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbc.resources
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbCreate3.resources
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.db4.resources
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.db5.resources
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\obj\Debug\chatapp.csproj.GenerateResource.Cache
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\obj\Debug\chatapp.dll
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\obj\Debug\chatapp.pdb
+C:\Users\Lab3_8\Desktop\SignalRProject1\chatApplication\chatapp\chatapp\obj\Debug\chatapp.csprojResolveAssemblyReference.cache
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\chatapp.dll.config
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\chatapp.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\chatapp.pdb
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Antlr3.Runtime.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\EntityFramework.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\EntityFramework.SqlServer.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Web.Infrastructure.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Newtonsoft.Json.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Owin.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.Helpers.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.Mvc.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.Optimization.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.Razor.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Deployment.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Razor.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\WebGrease.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\EntityFramework.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\EntityFramework.SqlServer.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Newtonsoft.Json.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.Helpers.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.Mvc.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.Optimization.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.Razor.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Deployment.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Razor.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Antlr3.Runtime.pdb
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbcreate.resources
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbc.resources
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbCreate3.resources
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.db4.resources
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.db5.resources
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\obj\Debug\chatapp.csproj.GenerateResource.Cache
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\obj\Debug\chatapp.dll
+E:\Module-7\SignalRProject-last\chatApplication\chatapp\chatapp\obj\Debug\chatapp.pdb
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\chatapp.dll.config
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\chatapp.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\chatapp.pdb
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Antlr3.Runtime.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\EntityFramework.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Newtonsoft.Json.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Owin.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.Helpers.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.Mvc.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.Optimization.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.Razor.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\WebGrease.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\EntityFramework.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Newtonsoft.Json.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.Helpers.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.Mvc.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.Optimization.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.Razor.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Antlr3.Runtime.pdb
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\obj\Debug\chatapp.csprojResolveAssemblyReference.cache
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbcreate.resources
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbc.resources
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbCreate3.resources
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.db4.resources
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\obj\Debug\chatapp.Migrations.db5.resources
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\obj\Debug\chatapp.csproj.GenerateResource.Cache
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\obj\Debug\chatapp.dll
+C:\Users\Lab3_16\Desktop\SignalRProject-Razu\chatApplication\chatapp\chatapp\obj\Debug\chatapp.pdb
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\chatapp.dll.config
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\chatapp.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\chatapp.pdb
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Owin.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ASUS\Desktop\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbcreate.resources
+C:\Users\ASUS\Desktop\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbc.resources
+C:\Users\ASUS\Desktop\chatapp\chatapp\obj\Debug\chatapp.Migrations.dbCreate3.resources
+C:\Users\ASUS\Desktop\chatapp\chatapp\obj\Debug\chatapp.Migrations.db4.resources
+C:\Users\ASUS\Desktop\chatapp\chatapp\obj\Debug\chatapp.Migrations.db5.resources
+C:\Users\ASUS\Desktop\chatapp\chatapp\obj\Debug\chatapp.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\chatapp\chatapp\obj\Debug\chatapp.dll
+C:\Users\ASUS\Desktop\chatapp\chatapp\obj\Debug\chatapp.pdb
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\chatapp.dll.config
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\chatapp.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\chatapp.pdb
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Antlr3.Runtime.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\EntityFramework.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\EntityFramework.SqlServer.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.Google.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Newtonsoft.Json.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Owin.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.Helpers.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.Mvc.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.Optimization.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.Razor.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.WebPages.Deployment.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.WebPages.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.WebPages.Razor.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\WebGrease.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\EntityFramework.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\EntityFramework.SqlServer.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Newtonsoft.Json.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.Helpers.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.Mvc.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.Optimization.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.Razor.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.WebPages.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.WebPages.Deployment.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\System.Web.WebPages.Razor.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Antlr3.Runtime.pdb
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.Google.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GitHub\SignalRChatApp.wAngular\chatapp\obj\Debug\chatapp.csprojResolveAssemblyReference.cache
+E:\GitHub\SignalRChatApp.wAngular\chatapp\obj\Debug\chatapp.Migrations.dbcreate.resources
+E:\GitHub\SignalRChatApp.wAngular\chatapp\obj\Debug\chatapp.Migrations.dbc.resources
+E:\GitHub\SignalRChatApp.wAngular\chatapp\obj\Debug\chatapp.Migrations.dbCreate3.resources
+E:\GitHub\SignalRChatApp.wAngular\chatapp\obj\Debug\chatapp.Migrations.db4.resources
+E:\GitHub\SignalRChatApp.wAngular\chatapp\obj\Debug\chatapp.Migrations.db5.resources
+E:\GitHub\SignalRChatApp.wAngular\chatapp\obj\Debug\chatapp.csproj.GenerateResource.Cache
+E:\GitHub\SignalRChatApp.wAngular\chatapp\obj\Debug\chatapp.dll
+E:\GitHub\SignalRChatApp.wAngular\chatapp\obj\Debug\chatapp.pdb

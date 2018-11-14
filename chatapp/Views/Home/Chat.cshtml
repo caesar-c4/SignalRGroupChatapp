@@ -1,0 +1,176 @@
+﻿
+@{
+    ViewBag.Title = "ChatAPP";
+}
+
+
+<div>
+    @Html.Action("ReqtoAddGroup", "Home")
+    <label>
+        {{msg}}
+    </label>
+
+</div>
+
+
+
+
+@section scripts{
+    
+    
+    
+<script src="~/Scripts/jquery.signalR-2.2.3.min.js"></script>
+    <script src="/signalr/hubs"></script>
+<script src="~/Scripts/angular.min.js"></script>
+
+<script>
+
+    var app = angular.module("myapp", [])
+                     .controller("myctrl", function ($scope, $http) {
+                         $scope.chatMessage = [];
+                         var chat = $.connection.myHub;
+                         $.connection.hub.start().done(function () {
+
+                             console.log("connected");
+
+                         })
+                         var Selected;
+                         $scope.menuClick = function (menu) {
+                             debugger;
+                             Selected = menu;
+                             console.log(Selected);
+                         }
+
+                         $("#msg").click(function () {
+                             $("#btnsend").show();
+                         })
+
+                       
+                         $scope.addtoGroup = function () {
+                             var req = {
+                                 GroupName: $scope.GroupName,
+                             }
+                             console.log($scope.GroupName);
+                             $http.post("/RequestInfoes/Create", req)
+                                     .then(function (result) {
+                                         if (result.data.success === true)
+                                         {
+                                             $scope.msg = "Wait for approval";
+                                         }
+                                         else
+                                         {
+                                             $scope.msg = result.data.success;
+                                         }
+                                         console.log(result.data.success)
+                                     }, function (err) {
+                                         
+                                         console.log(err)
+                                     })
+
+                         }
+
+
+
+                         $scope.fileList = [];
+                         $scope.curFile;
+                         $scope.ImageProperty = {
+                             file: ''
+                         }
+                         $scope.setFile = function (element) {
+                             $scope.fileList = [];
+
+                             var files = element.files;
+                             for (var i = 0; i < files.length; i++) {
+                                 $scope.ImageProperty.file = files[i];
+
+                                 $scope.fileList.push($scope.ImageProperty);
+                                 $scope.ImageProperty = {};
+                                 $scope.$apply();
+                             }
+                             UploadFile();
+                         }
+                         UploadFile = function () {
+                             for (var i = 0; i < $scope.fileList.length; i++) {
+                                 $scope.UploadFileIndividual($scope.fileList[i].file,
+                                                             $scope.fileList[i].file.name,
+                                                             $scope.fileList[i].file.type,
+                                                             $scope.fileList[i].file.size,
+                                                             i);
+                             }
+                         }
+                         $scope.UploadFileIndividual = function (fileToUpload, name, type, size, index) {
+                             var reqObj = new XMLHttpRequest();
+
+                             reqObj.open("POST", "/RequestInfoes/UploadFiles", true);
+                             reqObj.setRequestHeader("Content-Type", "multipart/form-data");
+                             reqObj.setRequestHeader('X-File-Name', name);
+                             reqObj.setRequestHeader('X-File-Type', type);
+                             reqObj.setRequestHeader('X-File-Size', size);
+                             reqObj.send(fileToUpload);
+                         }
+                         function uploadProgress(evt) {
+                             //debugger;
+                             if (evt.lengthComputable) {
+                                 var uploadProgressCount = Math.round(evt.loaded * 100 / evt.total);
+                                 document.getElementById('P' + index).innerHTML = uploadProgressCount;
+                                 if (uploadProgressCount == 100) {
+                                     document.getElementById('P' + index).innerHTML =
+                                    '<i class="fa fa-refresh fa-spin" style="color:green;"></i>';
+                                 }
+                             }
+                         }
+
+                         $scope.sendchat = function () {
+                             chat.server.send($scope.messag);
+                             $scope.messag = "";
+                         }
+
+                         function IsImageFile(fileF) {
+                             var ImageFiles = [".png", ".jpg", ".gif"];
+                             var regex = new RegExp("(" + ImageFiles.join('|') + ")$");
+                             if (!regex.test(fileF.toLowerCase())) {
+                                 return false;
+                             }
+                             return true;
+                         }
+
+
+                        
+                        
+
+                         chat.client.received = function (name, msg, type) {
+
+
+                             if (type === "files") {
+
+                                 if (IsImageFile(msg)) {
+
+                                     $scope.chatMessage.push({ Name: name, Msg: msg, img: true, others: false, str: false });
+                                 }
+                                 else {
+                                     $scope.chatMessage.push({ Name: name, Msg: msg, img: false, others: true, str: false });
+                                 }
+                             }
+
+                             else if (type === "str") {
+
+                                 $scope.chatMessage.push({ Name: name, Msg: msg, img: false, others: false, str: true });
+                             }
+
+                             $scope.$apply();
+                             console.log(name + msg);
+                         }
+
+                        
+
+
+
+                     });
+
+    </script>
+
+
+
+
+    }
+

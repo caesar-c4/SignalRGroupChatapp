@@ -1,0 +1,57 @@
+﻿
+@if (User.Identity.IsAuthenticated)
+{
+    <div class="row" >
+        
+            <p style="color:black;text-align:center;font-size:24pt;">Share Everything With Friends </p>
+        
+        
+    <form name="exampleForm" class="myForm" style="width: 600px">
+        <div id="dvmsg" style="padding:10px;width:440px;margin-left:470px;border:dashed;position:absolute" >
+
+            <div style="height:300px;overflow:auto;">
+                <div ng-repeat="m in chatMessage" style="word-wrap: break-word;background-color:#e0ecf2;margin:10px;padding:10px;border-radius:20px;">
+                   
+                    
+                        <div ng-show="{{m.str}}">
+                            
+                            {{m.Name}}:{{m.Msg}}
+                        </div>
+                        <div ng-show="{{m.img}}">
+                            You : <img src="http://localhost:2352{{m.Msg}}" alt="Image" />
+                        </div>
+                        <div ng-show="{{m.others}}">
+                            You : <a href="http://localhost:2352{{m.Msg}}" target="_blank">View</a>
+                        </div>
+                    </div>
+
+            </div>   <br />
+
+
+
+
+
+            <table>
+                <tr>
+                    <td>
+                        <input type="text" placeholder="mesage" ng-model="messag" name="msg" class="btn btn-default"
+                               style="width: 400px; height: 40px; " required />
+
+                        <input type="file" id="file" name="file" onchange="angular.element(this).scope().setFile(this)" accept="image/*"
+                               class="btn btn-primary" style="width: 400px; height: 40px; " />
+                    </td>
+                    <td>
+                        <input type="button" value="Send" ng-click="sendchat()" ng-disabled="exampleForm.$invalid" class="btn btn-success"
+                               style="width: 130px; height: 80px; font-size: 40px; " />
+                    </td>
+                </tr>
+            </table>
+            
+           
+
+        </div>
+    </form>
+       
+</div>
+
+}

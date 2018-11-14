@@ -1,0 +1,288 @@
+﻿<!DOCTYPE html>
+<html ng-app="myapp">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+   
+    <style type="text/css">
+        #part a {
+            font-size: 16px;
+            background-color: skyblue;
+        }
+            #part a:hover {
+                font-size: 16px;
+                background-color: white;
+            }
+        li {
+            list-style: none;
+            float: left;
+        }
+
+            li a {
+                display: block;
+                text-decoration: none;
+                width: 150px;
+            margin-bottom:30px;
+                background-color: green;
+                color: white;
+                font-size: 22px;
+                padding: 5px;
+            }
+
+                li a:hover {
+                    background-color: white;
+                    color: black;
+                    text-decoration: none;
+                }
+              
+       
+    </style>
+  
+</head>
+<body ng-controller="myctrl" >
+    <table  style="width: 100%;margin-top:-50px;">
+        <tr @*style="text-align:center;background-color:#000000; "*@>
+            <td colspan="3">
+                <input type="hidden" value="" />
+                <div id="part" style="float:right">
+                    @Html.Partial("_LoginPartial")
+                </div>
+            </td>
+        </tr>
+        <tr style="text-align:center;background-color:#000000;">
+            <td colspan="3">
+                <h1 @*style="font-size:30pt;color:white;margin-top:-10px;"*@>SignalR Chat Application</h1>
+            </td>
+        </tr>
+        <tr style="text-align:center;height:650px;vertical-align:top;">
+            <td style="width:100px;">
+                <div class="container">
+                    <div>
+                        @{
+                            var r = false;
+                        }
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            r = User.IsInRole("Admin");
+                            if (r == true)
+                            { <span class="noti glyphicon glyphicon-bell" id="bll">
+                                <span class="count"></span>
+                            </span>
+                            }
+                        }
+
+
+                        <div class="noti-content">
+                            <div class="noti-head">
+
+                            </div>
+                            <ul id="content"></ul>
+                        </div>
+
+                    </div>
+                    @*</div>
+
+
+                        <div  id="menu" >*@
+                    @{
+                        var p = false;
+                    }
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        p = User.IsInRole("Admin");
+                        if (p == true)
+                        {<nav id="mainNavbar">
+                            <ul>
+                                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                                <li>@Html.ActionLink("About", "About", "Home")</li>
+                                <li>@Html.ActionLink("Contact", "Contact", "Home", new { @ng_click = "menuClick(Contact)" }, null)</li>
+                                <li class="active">@Html.ActionLink("GroupCreate", "Index", "GroupInfos", new { ng_click = "menuClick(GroupCreate)" }, null)</li>
+                                <li>@Html.ActionLink("RoleCreate", "RoleCreate", "Account")</li>
+                            </ul>
+                        </nav>
+                        }
+                        else
+                        {
+                            <nav id="mainNavbar">
+                                <ul>
+                                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                                    <li>@Html.ActionLink("Chat", "Chat", "Home")</li>
+                                </ul>
+
+                            </nav>
+                        }
+                    }
+                </div>
+            </td>
+        
+            <td>
+                <div ng-controller="myctrl">
+                    <div>
+                        <ul id="licontent"></ul>
+                    </div>
+
+
+                    @RenderBody()
+
+                </div>
+            </td>
+            <td></td>
+        </tr>
+        <tr style="height: 40px; text-align: right; background-color: black; color: white;">
+            <td colspan="3">&copy; copyrighted by caesar_c4@yahoo.com</td>
+        </tr>
+    </table>
+
+
+
+
+    
+    
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+  
+
+    <script src="~/Scripts/jquery.signalR-2.2.3.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="/signalr/hubs"></script>
+    <style>
+        .noti {
+            background:green;
+            position: fixed;
+            right: 380px;
+            color: white;
+            cursor: pointer;
+
+            
+        }
+
+        .noti-content {
+            position: fixed;
+            right: 200px;
+            background: #2a70d3;
+            border-radius: 6px;
+            top: 60px;
+            width: 400px;
+            display: none;
+            border: 1px solid #9E9888;
+        }
+
+        .noti-head {
+            border-bottom-color: #F5E0b3;
+            background-color: transparent;
+            border-style: solid solid solid;
+            border-bottom-width: 8px;
+        }
+
+        .count {
+            font-size: 10px;
+            color: #F5E0b3;
+        }
+
+        ul#content {
+            max-height: 200px;
+            overflow: auto;
+            padding: 0px;
+            margin: 0px;
+            padding-left: 20px;
+        }
+
+        #content li {
+            margin: 3px;
+            padding: 6px;
+            background: #fff;
+            list-style: none;
+        }
+    </style>
+    <script>
+
+        $(document).ready(function () {
+            //var u=User
+            updateStudents();
+           
+            $(".noti").click(function (e) {
+                e.stopPropagation();
+                $(".count", this).html('&nbsp;');
+                $(".noti-content").show();
+            })
+            $("HTML").click(function () {
+                $(".noti-content").hide();
+            })
+
+            function updateStudents() {
+
+                $.ajax({
+                    url: "/RequestInfoes/GetNotifications",
+                    type: "Get",
+                    dataType: "Json"
+                }).done(function (data) {
+                    console.log(data.data.length);
+                    //$("#content").append("<li>Loading......</li>");
+                    if (data.data.length == 0) {
+                        $("#content").append("<li>No data</li>");
+                    }
+                    else {
+                      //  updatecount();
+                        $(".count").html(data.data.length);
+                        $("#content").empty();
+                        $.each(data.data, function (i, v) {
+                            var cc ;
+                            if (v.Approved == false) {
+                               
+                                $("#content").append(" <li><a href='http://localhost:2352/RequestInfoes/Edit/"+ v.Id+"' >" + v.UserName + " is Requested to add " + v.GroupName + "</a></li>");
+                           
+                            //$("#content").append("<li>" + v.UserName + " is Requested to add " + v.GroupName  + "</li>");
+                            //console.log(v.Name);
+                            }
+                            else {
+                                //$("#content").html("<li>" + "No Request Found"+"</li>"); 
+                                //$("#content").append("<li>" + "No Request Found"+"</li>"); 
+                                
+                            }
+                        })
+                       
+                       
+
+                    }
+
+                }).fail(function (er) {
+                    console.log();
+                })
+            }
+            function updatecount() {
+                var c = 0;
+                //console.log("No:" + $("#content li").length);
+                c = parseInt($(".count").html()) || 0;
+                c++;
+                $(".count").html($("#content li").length);
+               
+
+            }
+            var chat = $.connection.myHub;
+            chat.client.message = function (msg) {
+                if (msg && msg.toLowerCase() == "newrecord") {
+                    //updateStudents();
+                //    updatecount();
+                }
+            }
+            $.connection.hub.start().done(function () {
+              //  updatecount();
+            })
+        });
+
+    </script>
+
+</body>
+</html>
